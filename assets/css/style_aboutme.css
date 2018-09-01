@@ -317,6 +317,74 @@ footer{
 
 }
 
+@media screen and (max-width: 640px){
+
+    
+    h1, #mainheader{
+
+        width:100%;
+        margin:0; 
+        padding-right:100px;
+        font-size:50px;
+        position:static;
+        
+    }
+
+    #links{
+            
+        padding-left:0;
+        float:left;
+        width:100%;
+        margin-right:50px;
+        margin-top:5px;
+        background-color:white;
+        border-bottom: 3px solid gray;
+        padding-right:100px;
+        font-size:40px;
+
+    }
+
+    #mainsection, h2
+    {
+      
+        clear:both;
+        overflow:hidden;
+        padding-right:0;
+        width:96%;
+        margin-left:50px;
+        font-size:40px;
+
+      
+    }
+
+    #mainsection, h2
+    {
+      
+        clear:both;
+        overflow:hidden;
+        padding-right:0;
+        width:96%;
+        margin-left:70px;
+
+      
+    }
+
+    #imgcontainer{
+
+        margin:0 auto;
+        width:100%;
+        margin-left:300px;
+
+    }
+
+    p{
+        font-size:40px;
+        line-height: 50px;
+    }
+
+    
+
+}
 
 
 

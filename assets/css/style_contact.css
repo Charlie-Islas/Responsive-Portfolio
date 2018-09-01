@@ -213,4 +213,233 @@ footer{
 
 }
 
+@media only screen and (max-width: 980px){
+
+    
+    #hbackground{
+
+        border:none;
+
+    }
+
+    #mainheader{
+
+        width:100%;
+        padding-left:50px;
+        padding-right:50px;
+        border-bottom: 3px solid gray;
+    }
+    
+    h1{
+        padding-left:0px;
+        padding-right:0px;
+    }
+
+    #links{
+
+        padding-right:50px;
+    }
+    
+    #contents{
+
+        width:1200px;
+    }
+
+    #mainsection,
+    h2
+    {
+      
+        clear:both;
+        overflow:hidden;
+        width: 80%;
+        margin-left:50px;
+        padding-right: 420px;
+    }
+
+    p{
+
+        font-size:24px;
+        padding-left:50px;
+    }
+
+    #amcontainer,
+    h2{
+
+        width:auto;
+        overflow:hidden;
+        clear:both;
+        height:100px;
+        padding-top:0;
+        padding-top:8px;
+        padding-left:15px;
+  
+    }
+
+    h2{
+        font-size:28px;
+        border:none;
+        padding:5px;
+        padding-left:0;
+        overflow:hidden;
+        clear:both;
+    }
+
+}
+
+
+
+@media screen and (max-width: 768px){
+    
+    
+    #hbackground, 
+    {
+
+        width:100%;
+        border:none;
+    }
+
+    #contents{
+
+        width:1150px;
+    }
+
+    #mainheader{
+
+        width:90%;
+        padding:0;
+        margin-left:0;
+        padding-right:50px;
+        border-bottom: 3px solid gray;
+    }
+  
+    h1{
+
+        padding-right:0;
+        padding-left:0;
+        margin-left:50px;
+    
+
+    }
+
+    #mainsection, h2
+    {
+      
+        clear:both;
+        overflow:hidden;
+        padding-right:0;
+        width:85%;
+        margin-left:50px;
+
+      
+    }
+
+    #amcontainer,
+    h2{
+
+        width:auto;
+        overflow:hidden;
+        clear:both;
+        height:100px;
+        padding-top:0;
+        padding-top:8px;
+        padding-left:8px;
+  
+    }
+
+    h2{
+        font-size:28px;
+        border:none;
+        padding:5px;
+        padding-left:0;
+        overflow:hidden;
+        clear:both;
+    }
+
+    #nameinput, #emailinput, #messageinput{
+
+        font-size:20px;
+    }
+
+
+   
+}
+
+@media screen and (max-width: 640px){
+
+    
+    h1, #mainheader{
+
+        width:100%;
+        margin:0; 
+        padding-right:100px;
+        font-size:50px;
+        position:static;
+        
+    }
+
+    #links{
+            
+        padding-left:0;
+        float:left;
+        width:100%;
+        margin-right:50px;
+        margin-top:5px;
+        background-color:white;
+        border-bottom: 3px solid gray;
+        padding-right:100px;
+        font-size:40px;
+
+    }
+
+    #mainsection, h2
+    {
+      
+        clear:both;
+        overflow:hidden;
+        padding-right:10px;;
+        width:96%;
+        margin-left:50px;
+        font-size:40px;
+
+      
+    }
+
+    #mainsection, h2
+    {
+      
+        clear:both;
+        overflow:hidden;
+        padding-right:30px;
+        width:96%;
+        margin-left:70px;
+
+      
+    }
+
+    h2{
+        margin-left:45px;
+    }
+
+    #imgcontainer{
+
+        margin:0 auto;
+        width:100%;
+        margin-left:300px;
+
+    }
+
+    p{
+        font-size:40px;
+        line-height: 50px;
+    }
+
+    #nameinput, #emailinput, #messageinput{
+
+        font-size:35px;
+    }
+
+    
+
+}
+
 

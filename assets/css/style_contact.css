@@ -438,6 +438,14 @@ footer{
         font-size:35px;
     }
 
+    #submit{
+
+        padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 80px;
+    padding-left: 40px;
+    }
+
     
 
 }
